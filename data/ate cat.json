@@ -13,6 +13,18 @@
             "link":"https://www.youtube.com/watch?v=4Dkw48ULRGs",
             "percent":100,
             "hz":165
+         },
+         {
+            "user":"birbyn",
+            "link":"https://www.youtube.com/watch?v=qVH1MjWSeWg",
+            "percent":100,
+            "hz":165
+         },
+         {
+            "user":"Macaroni & Games",
+            "link":"https://youtu.be/_hUMnAu2tVE",
+            "percent":100,
+            "hz":165
          }
     ]
 }
