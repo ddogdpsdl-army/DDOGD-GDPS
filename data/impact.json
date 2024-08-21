@@ -25,6 +25,12 @@
             "link":"https://www.youtube.com/watch?v=UWE_P0LUVbQ",
             "percent":100,
             "hz":60
+         },
+         {
+            "user":"Macaroni & Games",
+            "link":"https://www.youtube.com/watch?v=kvKb16vPoQM",
+            "percent":100,
+            "hz":165
          }
     ]
 }
