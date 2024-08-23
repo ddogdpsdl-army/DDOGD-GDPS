@@ -1,5 +1,5 @@
 {
-    "id": 1415,
+    "id": 1900,
     "name": "Kxi Island",
     "author": "Kxi",
     "creators": ["Kxi"],
@@ -10,10 +10,15 @@
     "records": [
         {
         "user":"Void",
-        "link":"https://www.youtube.com/watch?v=qZsgi45v3eg ",
+        "link":"https://www.youtube.com/watch?v=qZsgi45v3eg",
         "percent":100,
         "hz":60
-        
+     },
+     {
+        "user":"WaterArch",
+        "link":"https://youtu.be/LpJQWur_EuA",
+        "percent":100,
+        "hz":60
      }
     ]
 }
