@@ -1,0 +1,18 @@
+{
+    "id": 1945,
+    "name": "C   I   G   H   T",
+    "author": "Semify",
+    "creators": ["Semify, Kirby"],
+    "verifier": "Semify",
+    "verification": "https://youtu.be/CTI6SiiStRQ",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user":"Semify",
+            "link":"https://youtu.be/CTI6SiiStRQ",
+            "percent":100,
+            "hz":75
+         }
+    ]
+}
