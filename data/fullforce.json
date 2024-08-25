@@ -19,6 +19,18 @@
             "link":"https://www.youtube.com/watch?v=QB4-yRtD54M",
             "percent":100,
             "hz":165
+         },
+         {
+            "user":"WaterArch",
+            "link":"https://youtu.be/xHiBYLTsFgc",
+            "percent":100,
+            "hz":60
+         },
+         {
+            "user":"Void",
+            "link":"https://youtu.be/guLgTIKVcdg",
+            "percent":100,
+            "hz":60
          }
     ]
 }
