@@ -19,6 +19,12 @@
             "link":"https://www.youtube.com/watch?v=0xi6BQodaWE",
             "percent":100,
             "hz":165
+         },
+         {
+            "user":"Void",
+            "link":"https://youtu.be/cYTgcueiMRY",
+            "percent":100,
+            "hz":60
          }
     ]
 }

@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
+        {
+            "user":"Void",
+            "link":"https://youtu.be/kSM2X52UX3s",
+            "percent":100,
+            "hz":60
+         }
     ]
 }
