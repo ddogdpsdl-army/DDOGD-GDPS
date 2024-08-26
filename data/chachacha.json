@@ -19,6 +19,24 @@
         "link":"https://youtu.be/nEn5HO4rY1U?si=zBhImzCiE6SifcIc",
         "percent":100,
         "hz":120
+     },
+     {
+        "user":"birbyn",
+        "link":"https://youtu.be/SueYSy-vdjI?si=c4FN0WUv6UgFyi9I",
+        "percent":100,
+        "hz":240
+     },
+     {
+        "user":"Void",
+        "link":"https://youtu.be/lS3QHxCMWb4",
+        "percent":100,
+        "hz":60
+     },
+     {
+        "user":"Macaroni & Games",
+        "link":"https://youtu.be/x2h6PIy-sOw",
+        "percent":100,
+        "hz":165
      }
     ]
 }
