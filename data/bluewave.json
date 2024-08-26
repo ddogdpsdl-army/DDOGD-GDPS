@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
+        {
+            "user":"Void",
+            "link":"https://youtu.be/09lJ77PtpsE",
+            "percent":100,
+            "hz":60
+         },
+         {
+            "user":"SoySalvaa35",
+            "link":"https://www.youtube.com/watch?v=gf_Ow0kioj0",
+            "percent":100,
+            "hz":60
+         }
     ]
 }
