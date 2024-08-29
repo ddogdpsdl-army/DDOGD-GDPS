@@ -8,5 +8,29 @@
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
+        {
+            "user":"Void",
+            "link":"https://youtu.be/XHN3DDBj0wU",
+            "percent":100,
+            "hz":60
+         },
+         {
+            "user":"WaterArch",
+            "link":"https://youtu.be/J3vMunN_nmY",
+            "percent":100,
+            "hz":60
+         },
+         {
+            "user":"Kxi",
+            "link":"https://www.youtube.com/watch?v=7NE78HOxWb8",
+            "percent":100,
+            "hz":240
+         },
+         {
+            "user":"Efe",
+            "link":"https://youtu.be/rXqSM04SSRk",
+            "percent":100,
+            "hz":60
+         }
     ]
 }

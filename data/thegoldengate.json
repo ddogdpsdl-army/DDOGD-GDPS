@@ -13,6 +13,24 @@
             "link":"https://youtu.be/kSM2X52UX3s",
             "percent":100,
             "hz":60
+         },
+         {
+            "user":"WaterArch",
+            "link":"https://youtu.be/pB57LC9mH40",
+            "percent":100,
+            "hz":60
+         },
+         {
+            "user":"Kxi",
+            "link":"https://www.youtube.com/watch?v=yzHbUqeshYQ",
+            "percent":100,
+            "hz":240
+         },
+         {
+            "user":"spnv",
+            "link":"https://www.youtube.com/watch?v=kslCyQtmwrk",
+            "percent":100,
+            "hz":240
          }
     ]
 }
