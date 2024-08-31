@@ -31,6 +31,12 @@
             "link":"https://youtu.be/smw2-N1g7N8",
             "percent":100,
             "hz":60
+         },
+         {
+            "user":"games",
+            "link":"https://youtu.be/x93maRNfrZE",
+            "percent":100,
+            "hz":144
          }
     ]
 }
