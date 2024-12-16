@@ -85,6 +85,12 @@
             "link":"https://www.youtube.com/watch?v=sA_mI3g8Dck",
             "percent":100,
             "hz":240
+         },
+        {
+            "user":"Atom",
+            "link":"https://www.youtube.com/watch?v=uKc8zdiwH4c",
+            "percent":100,
+            "hz":60
          }
     ]
 
