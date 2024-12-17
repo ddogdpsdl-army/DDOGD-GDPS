@@ -1,4 +1,4 @@
-# Welcome to the Geometry Dash Shitty List template!
+# Welcome to the DDOGDPS Demonlist GitHub Repository!
 
 # FAQ
 
