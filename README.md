@@ -18,13 +18,11 @@ The website isn't loading! What can I do?
 
 ---
 
-### Usage FAQ
+### List FAQ
 
-How do I add levels to the list?
+How can I submit my level(s) to be placed on the list?
 
-- Use one of the provided template json files and modify the details to fill in the details
-  accordingly. If there are any errors, the site will not load, or you will get a pop up
-  saying which level isn't loading.
+- idk man give me some time and i'll give you instructions
 
 How do I add records to the list?
 
