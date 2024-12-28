@@ -8,5 +8,11 @@
     "percentToQualify": "74",
     "password": "Free Copy",
     "records": [
+        {
+            "user":"Semify",
+            "link":"https://www.youtube.com/watch?v=NIxpVjfSSr8",
+            "percent":100,
+            "hz":240
+         }
     ]
 }
